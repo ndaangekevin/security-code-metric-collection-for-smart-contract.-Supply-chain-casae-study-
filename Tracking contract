@@ -72,7 +72,7 @@ Identify all the distinct methods call by each method identify above
 
 LCOM metric calculation 
 
-LCOM= 0  |p|=15-|q|=21 
+LCOM= 0,  |p|=15 < |q|=21 
 
  
 
